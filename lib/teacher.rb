@@ -1,5 +1,11 @@
 class Teacher  < User 
 
  
+ 
+ 
+ 
+ 
+ 
+ 
   
 end
