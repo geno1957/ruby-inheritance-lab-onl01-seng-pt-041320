@@ -2,7 +2,8 @@ class Teacher  < User
 
  
  
- 
+ def teach 
+   KNOWLEDGE.sample 
  
  
  
